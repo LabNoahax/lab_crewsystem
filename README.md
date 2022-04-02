@@ -2,7 +2,7 @@
 
 ``Reselling is not allowed``
 
-#Noahax Development Team Discord
+-- Noahax Development Team Discord --
 
 https://discord.gg/rjKN9Vwxc7
 
