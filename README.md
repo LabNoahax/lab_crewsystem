@@ -1,15 +1,12 @@
-# lab_crewsystem
-Crew System made by Lab#5863 for Noahax Team
+``Crew System made by Lab#5863 for Noahax Team``
 
-#Do not Resell
+``Reselling is not allowed``
 
-#Noahax Development Team 
+#Noahax Development Team Discord
 
 https://discord.gg/rjKN9Vwxc7
 
-#No support given cause the script is clean code
-
-** EXAMPLE ON HOW TO CREATE A CREW**
+** EXAMPLE ON HOW TO CREATE A CREW **
 
 ```
 RegisterCommand('createcrew', function(source, args, rawCommand)
